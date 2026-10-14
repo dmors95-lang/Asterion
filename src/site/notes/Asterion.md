@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/asterion/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![](Asterion.png.avif)
+![](/img/user/Allegati/A.png)
